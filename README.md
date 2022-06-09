@@ -1,6 +1,6 @@
 # GifExpertApp
 
-In this repository there is a small application made in React with Hooks to search and display animated gifs.
+In this repository there is a small practice application made in React with Hooks to search and display animated gifs.
 
 [Link](https://jonathanr26.github.io/react-gifExpertApp/)
 
